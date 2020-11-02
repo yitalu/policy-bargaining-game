@@ -20,6 +20,8 @@ Thursday, Nov 19th, 2 PM
 ## Study Link
 Below is the (sample) link for participating this study: https://otree-demo.herokuapp.com/demo/public_goods/
 
+Actually, this one: https://policy-bargaining-game.herokuapp.com/
+
 ## Time take
 The study will take you approximately 60 minutes to complete.
 
