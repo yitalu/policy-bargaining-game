@@ -1,5 +1,3 @@
-# Policy Bargaining Game
-
 ## Intro
 This is a recruitment message about an opportunity for earning extra credits in this course. Your participation in the study will further our understanding of important social and political issues.
 
