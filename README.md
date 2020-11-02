@@ -18,12 +18,12 @@ Wednesday, Nov 18th, 2 PM
 Thursday, Nov 19th, 2 PM
 
 ## Study Link
-Below is the (sample) link for participating this study: https://otree-demo.herokuapp.com/demo/public_goods/
+Below is the (sample) link for participating this study: <https://otree-demo.herokuapp.com/demo/public_goods/>
 
-Actually, this one: [https://policy-bargaining-game.herokuapp.com/](https://policy-bargaining-game.herokuapp.com/)
+Actually, this one: <https://policy-bargaining-game.herokuapp.com/>
 
 ## Time take
 The study will take you approximately 60 minutes to complete.
 
 ## Contact Information
-If you have any questions, you may contact researcher Yi-Ta Lu at yi-ta.lu@stonybrook.edu
+If you have any questions, you may contact researcher Yi-Ta Lu at <yi-ta.lu@stonybrook.edu>
