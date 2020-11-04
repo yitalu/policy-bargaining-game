@@ -23,7 +23,7 @@ The study will take you approximately 60 minutes (maximum) to complete.
 To participate in the study, register by Saturday, Nov 14th, 11:59 pm. The register link is <https://forms.gle/ec6oZYZB6NG7FMrt5>. Make sure the info you provide is correct.
 
 ### Study Link
-Click the link right before the starting time of the session you've registered: <https://policy-bargaining-game.herokuapp.com/room/sbu_id/>. Use your SBU ID when asked to enter the participant label.
+Click the link right before the starting time of the session you've registered: <https://policy-bargaining-game.herokuapp.com/room/sbu_id/>. Use your SBU ID when asked to enter the participant label. You would NOT be able to attend an unregistered session.
 
 ### Contact Information
 If you have any questions, encounter any web issues during the study, or believe your responses were not recorded, you may contact Yi-Ta Lu at <yi-ta.lu@stonybrook.edu>.
