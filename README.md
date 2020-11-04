@@ -20,7 +20,7 @@ There are four experiment sessions you can choose from. Each person can particip
 The study will take you approximately 60 minutes (maximum) to complete.
 
 ### Register Link
-To participate in the study, register by Saturday, Nov 14th, 11:59 pm. The register link is <https://forms.gle/ec6oZYZB6NG7FMrt5>. Make sure the info you provide is correct.
+To be able to participate in the study, register by Saturday, Nov 14th, 11:59 pm. The register link is <https://forms.gle/ec6oZYZB6NG7FMrt5>. Make sure the info you provide is correct.
 
 ### Study Link
 Click the link right before the starting time of the session you've registered: <https://policy-bargaining-game.herokuapp.com/room/sbu_id/>. Use your SBU ID when asked to enter the participant label. You would NOT be able to attend an unregistered session.
