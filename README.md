@@ -19,7 +19,7 @@ There are three experiment sessions you can choose from. Each person is allowed 
 The study will take you approximately 60 minutes (maximum) to complete.
 
 ### Register Link
-To participate in the study, register in advance by Sunday, Nov 15th, 11:59 pm. The register link is: <https://forms.gle/ec6oZYZB6NG7FMrt5>
+To participate in the study, register by Sunday, Nov 15th, 11:59 pm. The register link is: <https://forms.gle/ec6oZYZB6NG7FMrt5>
 
 ### Study Link
 Below is the (sample) link for participating this study: <https://otree-demo.herokuapp.com/demo/public_goods/>
