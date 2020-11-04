@@ -1,7 +1,7 @@
 This is a recruitment message about an opportunity to earn extra credits in your course. You have to **REGISTER** beforehand to be able to participate in the study. Read the below sections for details.
 
 ### Real-time Study
-This is a **REAL-TIME INTERACTIVE** online study, which is different from other studies you might have taken for extra credit in other classes. You will be paired with other participants and interact with them. Therefore, **BEING ON TIME** and **FOCUSING** during the study session are the requisites for getting extra credit. You will **NOT** get extra credit if you are late or leave the study in the midway. 
+This is a **REAL-TIME INTERACTIVE** online study, which is different from other studies you might have taken for extra credit in other classes. You will be paired with other participants and interact with them. Therefore, **BEING ON TIME** and **FINISHING** the study are the requisites for getting extra credit. You will NOT get extra credit if you are late or leave the study in the midway. 
 
 ### Amount of Extra Credit
 You will earn extra credit at 1% of the final course grade for showing up online **ON TIME** and **FINISHING** the experiment. You can receive additional extra credit up to 1% of the course grade based on the decisions you and other participants make in the study.
