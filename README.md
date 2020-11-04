@@ -1,6 +1,6 @@
 This is a recruitment message about an opportunity for earning extra credits in your course. You have to REGISTER beforehand to be able to participate in the study. Read below sections for details.
 
-## Real-time Experiment
+### Real-time Experiment
 This is a REAL-TIME INTERACTIVE online study, which is different from other studies you might have taken for extra credit in other classes. You will be paired with other participants and interact with them. Therefore, BEING ON TIME and FOCUSING during the study session are the requisites for getting extra credit. You will not get extra credit if you are late or leave the study in the midway. 
 
 ## Amount of Extra Credit
