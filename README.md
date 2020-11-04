@@ -10,8 +10,9 @@ You will earn extra credit at 1% of the final course grade for showing up online
 You have to be 18 years old or over and to participate. We will ask a question about your age in the study. You should also be an English speaker to participate as all instructions in the study will only be available in English.
 
 ### Dates and Times of Study:
-There are three experiment sessions you can choose from. Each person can participate in only one session (even if you received this recruitment message from multiple classes you take).
+There are four experiment sessions you can choose from. Each person can participate in only one session (even if you received this recruitment message from multiple classes you take).
 
+- Monday, Nov 16th, 2 pm - 3 pm
 - Tuesday, Nov 17th, 2 pm - 3 pm
 - Wednesday, Nov 18th, 2 pm - 3 pm
 - Thursday, Nov 19th, 2 pm - 3 pm
@@ -19,7 +20,7 @@ There are three experiment sessions you can choose from. Each person can partici
 The study will take you approximately 60 minutes (maximum) to complete.
 
 ### Register Link
-To participate in the study, register by Sunday, Nov 15th, 11:59 pm. The register link is <https://forms.gle/ec6oZYZB6NG7FMrt5>. Make sure the info you provide is correct.
+To participate in the study, register by Saturday, Nov 14th, 11:59 pm. The register link is <https://forms.gle/ec6oZYZB6NG7FMrt5>. Make sure the info you provide is correct.
 
 ### Study Link
 Click the link right before the starting time of the session you've registered: <https://policy-bargaining-game.herokuapp.com/room/sbu_id/>. Use your SBU ID when asked to enter the participant label.
