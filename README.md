@@ -10,7 +10,7 @@ You will earn extra credit at 1% of the final course grade for showing up online
 You have to be 18 years old or over and to participate. We will ask a question about your age in the study. Also, you should be an English speaker to participate as all instructions in the study will only be available in English.
 
 ### Dates and Times of Study:
-There are three experiment sessions you can choose from. Each person is allowed to participate in only one session.
+There are three experiment sessions you can choose from. Each person is allowed to participate in only one session (even if you receive this recruitment message from multiple classes you take).
 
 - Tuesday, Nov 17th, 2 pm - 3 pm
 - Wednesday, Nov 18th, 2 pm - 3 pm
@@ -19,12 +19,12 @@ There are three experiment sessions you can choose from. Each person is allowed 
 The study will take you approximately 60 minutes (maximum) to complete.
 
 ### Register Link
-To participate in the study, register by Sunday, Nov 15th, 11:59 pm. The register link is: <https://forms.gle/ec6oZYZB6NG7FMrt5>
+To participate in the study, register in advance by Sunday, Nov 15th, 11:59 pm. The register link is: <https://forms.gle/ec6oZYZB6NG7FMrt5>
 
 ### Study Link
-Below is the (sample) link for participating this study: <https://otree-demo.herokuapp.com/demo/public_goods/>
+Below is the (sample) link for participating this study: https://otree-demo.herokuapp.com/demo/public_goods/
 
-A reminder will also be sent to participants email prior to the study.
+An email reminder will also be sent to participants prior to the study.
 
 ### Contact Information
-If you have any questions, encounter any web issues during the study, or believe your responses were not recorded, you may contact Yi-Ta Lu at <yi-ta.lu@stonybrook.edu>
+If you have any questions, encounter any web issues during the study, or believe your responses were not recorded, you may contact Yi-Ta Lu at yi-ta.lu@stonybrook.edu
