@@ -17,7 +17,7 @@ There are four experiment sessions you can choose from. Each person can particip
 - Wednesday, Nov 18th, 2 pm - 3 pm
 - Thursday, Nov 19th, 2 pm - 3 pm
 
-The study will take you approximately 60 minutes (maximum) to complete.
+The study will take you at most 60 minutes (depending on your and your partners' pace in the study) to complete.
 
 ### Register Link
 To be able to participate in the study, register by Saturday, Nov 14th, 11:59 pm. The register link is <https://forms.gle/ec6oZYZB6NG7FMrt5>. Make sure the info you provide is correct.
