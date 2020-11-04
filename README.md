@@ -7,7 +7,7 @@ This is a **REAL-TIME INTERACTIVE** online study, which is different from other 
 You will earn extra credit at 1% of the final course grade for showing up online **ON TIME** and **FINISHING** the experiment. You can receive additional extra credit up to 1% of the course grade based on the decisions you and other participants make in the study.
 
 ### Qualification
-You have to be 18 years old or over and to participate. We will ask a question about your age in the study. You should also be an English speaker to participate as all instructions in the study will only be available in English.
+You have to be 18 years old or over to participate. We will ask a question about your age in the study. You should also be an English speaker to participate as all instructions in the study will only be available in English.
 
 ### Dates and Times of Study:
 There are four experiment sessions you can choose from. Each person can participate in only one session (even if you received this recruitment message from multiple classes you take).
