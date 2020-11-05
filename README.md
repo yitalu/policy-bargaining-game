@@ -10,7 +10,7 @@ You will earn extra credit at 1% of the final course grade for showing up online
 You have to be 18 years old or over to participate. We will ask a question about your age in the study. You should also be an English speaker to participate as all instructions in the study will only be available in English.
 
 ### Dates and Times of Study:
-There are four experiment sessions you can choose from. Each person can participate in only one session (even if you received this recruitment message from multiple classes you take).
+There are four experiment sessions you can choose from. Each person can participate in ONLY ONE session (even if you received this recruitment message from multiple classes you take), so choose the course you want to earn extra credit in when you register.
 
 - Monday, Nov 16th, 2 pm - 3 pm
 - Tuesday, Nov 17th, 2 pm - 3 pm
