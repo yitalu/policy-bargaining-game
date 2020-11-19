@@ -1,4 +1,4 @@
-**\[UPDATE 11.19.2020\] More sessions available! See the Dates and Times of Study section.**
+**\[UPDATE 11.19.2020\] More sessions available! See the Dates and Times section.**
 
 This is a recruitment message about an opportunity to earn extra credits in your course. You have to **REGISTER** beforehand to be able to participate in the study. Read the below sections for details.
 
@@ -11,7 +11,7 @@ You will earn extra credit at 1% of the final course grade for showing up online
 ### Qualification
 You have to be 18 years old or over to participate. We will ask a question about your age in the study. You should also be an English speaker to participate as all instructions in the study will only be available in English.
 
-### Dates and Times of Study:
+### Dates and Times:
 There are three other experiment sessions you can choose from. Each person can participate in ONLY ONE session (even if you received this recruitment message from multiple classes you take), so choose the course you want to earn extra credit for when you register.
 
 - Monday, Nov 16th, 2 pm - 3 pm (expired)
