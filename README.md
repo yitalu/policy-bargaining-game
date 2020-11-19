@@ -14,7 +14,7 @@ You have to be 18 years old or over to participate. We will ask a question about
 ### Dates and Times:
 There are three other experiment sessions you can choose from. Each person can participate in ONLY ONE session (even if you received this recruitment message from multiple classes you take), so choose the course you want to earn extra credit for when you register.
 
-- Monday, Nov 16th, 2 pm - 3 pm (expired)
+<del>- Monday, Nov 16th, 2 pm - 3 pm (expired)</del>
 - Tuesday, Nov 17th, 2 pm - 3 pm (expired)
 - Wednesday, Nov 18th, 2 pm - 3 pm (expired)
 - Thursday, Nov 19th, 2 pm - 3 pm (expired)
