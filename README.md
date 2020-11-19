@@ -1,4 +1,4 @@
-\[**UPDATE 11.19.2020**\] More sessions available! See the Dates and Times of Study section.
+**\[UPDATE 11.19.2020\] More sessions available! See the Dates and Times of Study section.**
 
 This is a recruitment message about an opportunity to earn extra credits in your course. You have to **REGISTER** beforehand to be able to participate in the study. Read the below sections for details.
 
