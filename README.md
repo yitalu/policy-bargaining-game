@@ -12,10 +12,10 @@ You have to be 18 years old or over to participate. We will ask a question about
 ### Dates and Times of Study:
 There are four experiment sessions you can choose from. Each person can participate in ONLY ONE session (even if you received this recruitment message from multiple classes you take), so choose the course you want to earn extra credit for when you register.
 
-- Monday, Nov 16th, 2 pm - 3 pm
-- Tuesday, Nov 17th, 2 pm - 3 pm
-- Wednesday, Nov 18th, 2 pm - 3 pm
-- Thursday, Nov 19th, 2 pm - 3 pm
+- Monday, Nov 16th, 2 pm - 3 pm (expired)
+- Tuesday, Nov 17th, 2 pm - 3 pm (expired)
+- Wednesday, Nov 18th, 2 pm - 3 pm (expired)
+- Thursday, Nov 19th, 2 pm - 3 pm (expired)
 
 The study will take you at most 60 minutes (depending on your and your partners' pace in the study) to complete.
 
