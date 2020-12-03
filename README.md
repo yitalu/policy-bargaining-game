@@ -21,7 +21,7 @@ There are three other experiment sessions you can choose from. Each person can p
 - <del>Thursday, Nov 19th, 2 pm - 3 pm</del> (expired)
 - <del>Monday, Nov 30th, 7 pm - 8 pm</del> (expired)
 - <del>Tuesday, Dec 1st, 7 pm - 8 pm</del> (expired)
-- Wednesday, Dec 2nd, 3 pm - 4 pm
+- <del>Wednesday, Dec 2nd, 3 pm - 4 pm</del> (expired)
 
 The study will take you at most 60 minutes (depending on your and your partners' pace in the study) to complete.
 
