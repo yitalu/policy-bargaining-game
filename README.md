@@ -36,7 +36,7 @@ Click the link right before the starting time of the session you've registered: 
 After entering your participant label (SBU ID), you will be taken to a waiting page. Please wait for the session to begin patiently. If you accidentally close your browser during the session, click the above link and enter your SBU ID again. You will be brought to the page where you left off.
 
 ### Alternative Task (Under 18)
-If you are under 18 and want to earn extra credit, finish the task at <https://stonybrookuniversity.co1.qualtrics.com/jfe/form/SV_bPJ98FbFUPsF19H> by **Thursday, 12/10 11:59 pm** intead. You will earn 1% of the final course grade by finishing this task.
+If you are under 18 and want to earn extra credit, finish the task at <https://stonybrookuniversity.co1.qualtrics.com/jfe/form/SV_bPJ98FbFUPsF19H> by **Thursday, 12/10 11:59 pm**. You will earn 1% of the final course grade by doing this.
 
 ### Contact Information
 If you have any questions, encounter any web issues during the study, or believe your responses were not recorded, you may contact Yi-Ta Lu at <yi-ta.lu@stonybrook.edu>.
