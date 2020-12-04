@@ -1,4 +1,4 @@
-**\[UPDATE 12.4.2020\] Alternative task for people who are under 18. See the Alternative Task section.**
+**\[UPDATE 12.4.2020\] Alternative task for people who are under 18. See the Alternative Task (Under 18) section.**
 
 **\[UPDATE 11.19.2020\] More sessions available for people who have not participated! See the Dates and Times section.**
 
@@ -35,8 +35,8 @@ Click the link right before the starting time of the session you've registered: 
 
 After entering your participant label (SBU ID), you will be taken to a waiting page. Please wait for the session to begin patiently. If you accidentally close your browser during the session, click the above link and enter your SBU ID again. You will be brought to the page where you left off.
 
-### Alternative Task
-If you are under 18 and want to earn extra credit, click the link: <https://stonybrookuniversity.co1.qualtrics.com/jfe/form/SV_bPJ98FbFUPsF19H>. You will earn 1% of the final course grade by finishing this task.
+### Alternative Task (Under 18)
+If you are under 18 and want to earn extra credit, click the link <https://stonybrookuniversity.co1.qualtrics.com/jfe/form/SV_bPJ98FbFUPsF19H> instead. You will earn 1% of the final course grade by finishing this task.
 
 ### Contact Information
 If you have any questions, encounter any web issues during the study, or believe your responses were not recorded, you may contact Yi-Ta Lu at <yi-ta.lu@stonybrook.edu>.
