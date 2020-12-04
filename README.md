@@ -1,4 +1,5 @@
 **\[UPDATE 12.4.2020\] Alternative task for people who are under 18. See the Alternative Task section.**
+
 **\[UPDATE 11.19.2020\] More sessions available for people who have not participated! See the Dates and Times section.**
 
 ---
